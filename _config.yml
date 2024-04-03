@@ -1,0 +1,25 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+# relative_permalinks: true
+
+include:
+  - _pages
+
+# Setup
+title:            isixline
+tagline:          'blog'
+description:      'Just Blog'
+url:              'https://isixline.github.io'
+baseurl:          '/blog'
+
+paginate:         5
+
+github:
+  repo:           https://github.com/isixline/blog
+
+plugins:
+  - jekyll-paginate
