@@ -1,0 +1,10 @@
+{
+  "name": "Isixline Blog",
+  "short_name": "Isixline Blog",
+  "description": "Just Blog",
+  "background_color": "#fff",
+  "theme_color": "#000",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait"
+}
